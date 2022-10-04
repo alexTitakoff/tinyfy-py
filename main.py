@@ -6,7 +6,7 @@ import shutil
 from pathlib import Path
 
 # TinyPNG apikey
-tinify.key = "Z2t5P6cK9fV5HVVp2F1tQgqmxW5Z0Jgf"
+tinify.key = "YOU_API_KEY"
 # targetdir
 root_dir = 'test_folder'
 # the maximum size(in bytes) of the image the ones above are compressed
